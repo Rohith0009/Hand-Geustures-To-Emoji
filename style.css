@@ -1,0 +1,18 @@
+.heading {
+  font-size: 20px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+body {
+  color: white;
+  background-color: limegreen;
+}
+
+span {
+  font-size: 30px;
+}
+
+#appname {
+  font-size: 50px;
+}
