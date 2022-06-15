@@ -18,7 +18,7 @@ function snap_pic() {
 }
 
 console.log("Your Current ml5 Version Is: ", ml5.version);
-classifier = ml5.imageClassifier("https://teachablemachine.withgoogle.com/models/hJtX70nsL/model.json", modelloaded);
+classifier = ml5.imageClassifier("", modelloaded);
 
 function modelloaded() {
   console.log("Model Loaded!👍👍");
