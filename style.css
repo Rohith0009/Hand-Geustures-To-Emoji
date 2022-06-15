@@ -1,12 +1,13 @@
 .heading {
   font-size: 20px;
   border-radius: 10px;
-  letter-spacing: 10px;
+  letter-spacing: 8px;
+  margin-top: 20px;
 }
 
 body {
   color: white;
-  background-color: limegreen;
+  background-color: plum;
 }
 
 span {
@@ -15,4 +16,45 @@ span {
 
 #appname {
   font-size: 50px;
+}
+
+#title {
+  margin-top: 8px;
+  font-size: 30px;
+  color: aquamarine;
+}
+
+#camera,
+#captured_image {
+  width: 350px;
+  height: 300px;
+}
+
+#captured_image {
+  background-color: skyblue;
+  color: black;
+  font-size: 40px;
+  padding: 15px;
+}
+
+.prediction-title {
+  font-size: 25px;
+  color: paleturquoise;
+}
+
+.type-title {
+  font-size: 23px;
+  color: palegreen;
+}
+
+p,
+h4,
+h5,
+#captured_image {
+  font-family: cursive;
+}
+
+#hr1 {
+  height: 3px;
+  background-color: #eeeeee;
 }
