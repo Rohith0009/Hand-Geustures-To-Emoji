@@ -24,6 +24,17 @@ span {
   color: aquamarine;
 }
 
+#prediction_2_result,
+#prediction_1_result {
+  font-size: 23px;
+  color: aquamarine;
+}
+
+#new_emoji_2,
+#new_emoji_1 {
+  font-size: 30px;
+}
+
 #camera,
 #captured_image {
   width: 350px;
@@ -36,7 +47,7 @@ span {
   font-size: 40px;
 }
 
-#error{
+#error {
   padding: 20px;
 }
 
